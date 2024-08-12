@@ -1,0 +1,35 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sasmeee/igdl": "*",
+    "@bochilteam/scraper": "^4.2.4",
+    "@xct007/frieren-scraper": "*",
+    "@types/node": "^18.0.6",
+    "axios": "^1.7.2",
+    "bing-translate-api": "^4.0.2",
+    "canvas": "^2.8.0",
+    "cheerio": "^1.0.0",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "discord.js": "^12.5.3",
+    "express": "^4.19.2",
+    "file-type": "^19.4.0",
+    "form-data": "^4.0.0",
+    "formdata-node": "^6.0.3",
+    "instagram-url-direct": "^1.0.13",
+    "image-size": "^1.1.1",
+    "node-fetch": "^3.3.2",
+    "path": "^0.12.7",
+    "ytdl-core": "^4.11.5"
+  }
+}
